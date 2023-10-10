@@ -1,4 +1,4 @@
-module github/LopSdir/bridge
+module github.com/LopSdir/bridge
 
 go 1.20
 
